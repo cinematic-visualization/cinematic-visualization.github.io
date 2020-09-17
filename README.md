@@ -10,7 +10,7 @@ Supplementary resources for the paper "Cinematic Techniques in Narrative Visuali
 
 ## Survey & Analysis
 
-- [Table of techniques used in 50 cinematic visualizations](https://docs.google.com/spreadsheets/d/1SmJUFPv8xogOpnIY4Pp3axIamqhDVKEjhWgSDYRGwZk/edit?usp=sharing)
+- [Table of techniques used in 50 cinematic visualizations](https://docs.google.com/spreadsheets/d/1igsXLXb3thbTmnuN5Z1xLdURCAzkPCVkvn8iD8WA_2E/edit?usp=sharing)
 
 ## Case Study
 ### Rejected scenes
