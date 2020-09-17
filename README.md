@@ -10,7 +10,7 @@ Supplementary resources for the paper "Cinematic Techniques in Narrative Visuali
 
 ## Survey & Analysis
 
-- [Table of techniques used in 50 cinematic visualizations](https://docs.google.com/spreadsheets/d/1igsXLXb3thbTmnuN5Z1xLdURCAzkPCVkvn8iD8WA_2E/edit?usp=sharing)
+- [Table of techniques used in 50 cinematic visualizations](https://docs.google.com/spreadsheets/d/1igsXLXb3thbTmnuN5Z1xLdURCAzkPCVkvn8iD8WA_2E/edit?usp=sharing) We analyzed the style of 50 cinematic visualizations using the features of mise-en-sc\`ene, cinematography, editing, and sound. We identified techniques across each of these dimensions of style, including (A) in-situ narrators, (B) anthropocentric perspective, (C) concrete scales, and author-guided, interactive cameras (D). Note that the use of techniques related to editing and sound varied greatly between cinematic visualizations embedded in online articles and those presented as videos. 
 
 ## Case Study
 ### Rejected scenes
