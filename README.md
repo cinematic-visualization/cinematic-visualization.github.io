@@ -7,9 +7,43 @@ Supplementary resources for the paper "Cinematic Techniques in Narrative Visuali
 
 ## Case Study
 
-
 <video controls width="100%">
     <source src="./home-page-slow.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+<video controls width="100%">
+    <source src="./dc-ice.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+<video controls width="100%">
+    <source src="./nyc-gt.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+<video controls width="100%">
+    <source src="./texas.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+<video controls width="100%">
+    <source src="./usa-ice.mp4 "
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+<video controls width="100%">
+    <source src="./moon-ice.mp4"
             type="video/mp4">
 
     Sorry, your browser doesn't support embedded videos.
