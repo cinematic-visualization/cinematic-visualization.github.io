@@ -10,7 +10,7 @@ Supplementary resources for the paper "Cinematic Techniques in Narrative Visuali
 ### Rejected scenes
 
 ![Bitmap Copy 14](https://user-images.githubusercontent.com/71418295/93428788-e760d880-f874-11ea-844b-106434e3d012.png)
-![Group 6 Copy 17](https://user-images.githubusercontent.com/71418295/93428798-ee87e680-f874-11ea-9c60-2777e5fa1480.png)
+![Bitmap Copy 15](https://user-images.githubusercontent.com/71418295/93429135-84bc0c80-f875-11ea-9cf6-2e3c957210af.png)
 ![Bitmap Copy 16](https://user-images.githubusercontent.com/71418295/93428799-ef207d00-f874-11ea-93ae-d53d12afffe8.png)
 ![Bitmap Copy 17](https://user-images.githubusercontent.com/71418295/93428808-f34c9a80-f874-11ea-8e53-d194c925f64e.png)
 ![temperature2Copy_00147 Copy](https://user-images.githubusercontent.com/71418295/93428813-f778b800-f874-11ea-94f5-1d12b95eff5c.png)
