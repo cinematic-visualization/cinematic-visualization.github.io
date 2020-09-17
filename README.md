@@ -7,7 +7,14 @@ Supplementary resources for the paper "Cinematic Techniques in Narrative Visuali
 
 ## Case Study
 
-<video src="./home-page-slow.mp4" />
+
+<video controls width="100%">
+    <source src="./home-page-slow.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
 
 ### Rejected scenes
 
